@@ -2,7 +2,7 @@
     "name": "ghostytom/core",
     "autoload": {
         "psr-4": {
-            "ghostytom\\core\\": "."
+            "ghostytom\\core\\": "./"
         }
     },
     "authors": [
