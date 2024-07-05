@@ -1,15 +1,16 @@
 {
     "name": "ghostytom/mvc_core_framework",
+    "autoload": {
+        "psr-4": {
+            "ghostytom\\mvc_core_framework\\": "."
+        }
+    },
     "authors": [
         {
             "name": "Thomas",
             "email": "example@example.de"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "ghostytom\\mvc_core_framework": "./"
-        }
-    }
+    "require": {}
+
 }
