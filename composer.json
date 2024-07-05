@@ -1,0 +1,10 @@
+{
+    "name": "ghostytom/mvc_core_framework",
+    "authors": [
+        {
+            "name": "Thomas",
+            "email": "example@example.de"
+        }
+    ],
+    "require": {}
+}
