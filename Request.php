@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core;
+namespace ghostytom\mvc_core_framework;
 
 /**
  * Class Request
- * @package app\core;
+ * @package ghostytom\mvc_core_framework;
  */
 
 class Request

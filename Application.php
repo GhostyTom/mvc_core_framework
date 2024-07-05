@@ -1,13 +1,13 @@
 <?php
 
-namespace app\core;
-use app\core\db\Database;
-use app\core\db\DbModel;
+namespace ghostytom\mvc_core_framework;
+use ghostytom\mvc_core_framework\db\Database;
+use ghostytom\mvc_core_framework\db\DbModel;
 use app\models\User;
 
 /**
  * Class Application
- * @package app\core;
+ * @package ghostytom\mvc_core_framework;
  */
 
 class Application

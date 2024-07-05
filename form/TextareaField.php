@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace ghostytom\mvc_core_framework\form;
 
 
 class TextareaField extends BaseField

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace ghostytom\mvc_core_framework\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use ghostytom\mvc_core_framework\Application;
+use ghostytom\mvc_core_framework\Model;
 
 abstract class DbModel extends Model
 {

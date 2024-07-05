@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace ghostytom\mvc_core_framework;
 
 
 class View

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace ghostytom\mvc_core_framework\middlewares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use ghostytom\mvc_core_framework\Application;
+use ghostytom\mvc_core_framework\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

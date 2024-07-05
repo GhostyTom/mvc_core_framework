@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace ghostytom\mvc_core_framework;
 
 
-use app\core\middlewares\BaseMiddleware;
+use ghostytom\mvc_core_framework\middlewares\BaseMiddleware;
 
 class Controller
 {

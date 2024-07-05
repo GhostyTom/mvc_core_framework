@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace ghostytom\mvc_core_framework\form;
 
 
-use app\core\Model;
+use ghostytom\mvc_core_framework\Model;
 
 class InputField extends BaseField
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exception;
+namespace ghostytom\mvc_core_framework\exception;
 
 
 class NotFoundException extends \Exception

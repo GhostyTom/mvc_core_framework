@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace ghostytom\mvc_core_framework;
 
-use app\core\exception\NotFoundException;
+use ghostytom\mvc_core_framework\exception\NotFoundException;
 
 /**
  * Class Router
- * @package app\core;
+ * @package ghostytom\mvc_core_framework;
  */
 
 class Router
