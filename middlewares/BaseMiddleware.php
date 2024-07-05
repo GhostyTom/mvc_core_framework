@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ghostytom\mvc_core_framework\middlewares;
+namespace ghostytom\core\middlewares;
 
 
 abstract class BaseMiddleware

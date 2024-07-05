@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ghostytom\mvc_core_framework;
+namespace ghostytom\core;
 
 
 abstract class Model

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ghostytom\mvc_core_framework\form;
+namespace ghostytom\core\form;
 
 
-use ghostytom\mvc_core_framework\Model;
+use ghostytom\core\Model;
 
 class Form
 {

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ghostytom\mvc_core_framework\exception;
+namespace ghostytom\core\exception;
 
 
 class ForbiddenException extends \Exception

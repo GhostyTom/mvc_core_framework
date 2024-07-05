@@ -1,8 +1,8 @@
 {
-    "name": "ghostytom/mvc_core_framework",
+    "name": "ghostytom/core",
     "autoload": {
         "psr-4": {
-            "ghostytom\\mvc_core_framework\\": "."
+            "ghostytom\\core\\": "."
         }
     },
     "authors": [

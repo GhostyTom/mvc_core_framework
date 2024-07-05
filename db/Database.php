@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ghostytom\mvc_core_framework\db;
+namespace ghostytom\core\db;
 
 
 class Database
